@@ -1,4 +1,4 @@
-# VLDB Summer School 2022
+# VLDB Summer School 2022 AI4DB
 
 ## Introduction
 
