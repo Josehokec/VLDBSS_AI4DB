@@ -28,7 +28,7 @@ If you don't use [GitHub classroom](https://classroom.github.com/), just fork th
 First, please study the[classroom doc](docs/classroom.md) and clone the repository with git to get the source code of the project.
 
 ``` bash
-git clone https://github.com/vldbss-2022/vldbss2022-{{username}}.git
+git clone https://github.com/Josehokec/VLDBSS_AI4DB.git
 ```
 
 Then make sure you have installed [python](https://www.python.org/downloads/) toolchains. 
